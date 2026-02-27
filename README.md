@@ -1,59 +1,64 @@
-# hoja-de-vida
-👨‍💻 Alberth Santiago Leal Herrera
+👨‍💻 ALBERTH SANTIAGO LEAL HERRERA
 
 🎓 Estudiante de Ingeniería Electromecánica
 💻 Técnico en Programación (En formación)
 📍 Girón, Santander, Colombia
 
-🚀 Sobre mí
+1️⃣ PERFIL PROFESIONAL
 
-Soy estudiante de Ingeniería Electromecánica con bases en programación y actualmente en formación como Técnico en Programación en CampusLab (Zona Franca, Santander).
+Soy estudiante de Ingeniería Electromecánica con bases en programación y actualmente en formación como Técnico en Programación en CampusLab.
 
-Me apasiona el área tecnológica y el desarrollo de soluciones mediante el uso de la programación. Me caracterizo por mi disposición para aprender constantemente, mi responsabilidad y mi compromiso con el crecimiento profesional.
+Me apasiona la tecnología y el desarrollo de soluciones mediante programación. Me caracterizo por:
 
-Estoy enfocado en fortalecer mis habilidades en desarrollo de software, automatización y tecnología aplicada.
+✔️ Disposición constante para aprender
 
-🎓 Educación
+✔️ Responsabilidad
 
-🎓 Tecnología en Operación y Mantenimiento Electromecánico
+✔️ Compromiso con mi crecimiento profesional
+
+✔️ Orientación al logro
+
+Mi objetivo es integrar la tecnología con la ingeniería para desarrollar soluciones innovadoras y funcionales.
+
+2️⃣ FORMACIÓN ACADÉMICA
+🎓 2.1 Tecnología en Operación y Mantenimiento Electromecánico
+
 Unidades Tecnológicas de Santander
-(En curso)
+📅 En curso
 
-💻 Técnico en Programación
+💻 2.2 Técnico en Programación
+
 CampusLab
-(2026 - Actualidad)
+📅 2026 - Actualidad
 
-🏫 Bachiller Académico
+🏫 2.3 Bachiller Académico
+
 Institución Educativa Aurelio Martínez Mutis
-(2019 - 2024)
+📅 2019 - 2024
 
-🛠️ Habilidades Técnicas
+3️⃣ HABILIDADES TÉCNICAS
 
-Programación (Python - proyectos modulares con JSON)
+🔹 Fundamentos de programación
+🔹 Desarrollo de proyectos en Python
+🔹 Manejo de archivos JSON
+🔹 Sistemas con roles (Administrador / Usuario)
+🔹 Lógica de programación
+🔹 Manejo de herramientas ofimáticas
+🔹 Fundamentos en mantenimiento electromecánico
 
-Lógica de programación
+4️⃣ HABILIDADES BLANDAS
 
-Gestión básica de inventarios y sistemas con roles
+🔸 Comunicación asertiva
+🔸 Trabajo con responsabilidad
+🔸 Orientación al logro
+🔸 Compromiso y disciplina
+🔸 Adaptabilidad
 
-Manejo de herramientas ofimáticas
+5️⃣ OBJETIVO PROFESIONAL
 
-Fundamentos en operación y mantenimiento electromecánico
+Desarrollarme en el sector tecnológico como programador y profesional integral, integrando mis conocimientos en electromecánica y software para aportar soluciones innovadoras y eficientes.
 
-💡 Habilidades Blandas
-
-✅ Orientación al logro
-
-✅ Comunicación asertiva y persuasiva
-
-✅ Responsabilidad
-
-✅ Compromiso con el aprendizaje continuo
-
-📌 Objetivo Profesional
-
-Desarrollarme como profesional en el área tecnológica, integrando mis conocimientos en electromecánica y programación para crear soluciones innovadoras, eficientes y funcionales.
-
-📫 Contacto
+6️⃣ CONTACTO
 
 📧 Email: alberthsantiagoleal@gmail.com
 
