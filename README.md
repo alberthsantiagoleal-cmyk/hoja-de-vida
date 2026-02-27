@@ -1,65 +1,71 @@
-👨‍💻 ALBERTH SANTIAGO LEAL HERRERA
+# 👨‍💻 ALBERTH SANTIAGO LEAL HERRERA
 
-🎓 Estudiante de Ingeniería Electromecánica
-💻 Técnico en Programación (En formación)
-📍 Girón, Santander, Colombia
+**Estudiante de Ingeniería Electromecánica**  
+**Técnico en Programación (En formación)**  
+Girón, Santander, Colombia  
 
-1️⃣ PERFIL PROFESIONAL
+---
 
-Soy estudiante de Ingeniería Electromecánica con bases en programación y actualmente en formación como Técnico en Programación en CampusLab.
+## 1. PERFIL PROFESIONAL
 
-Me apasiona la tecnología y el desarrollo de soluciones mediante programación. Me caracterizo por:
+Soy estudiante de Ingeniería Electromecánica con bases en programación y actualmente en formación como Técnico en Programación en CampusLab (Zona Franca, Santander).
 
-✔️ Disposición constante para aprender
+Me apasiona el área tecnológica y el desarrollo de soluciones mediante programación. Me caracterizo por:
 
-✔️ Responsabilidad
+- **Responsabilidad**
+- **Compromiso con el aprendizaje continuo**
+- **Orientación al logro**
+- **Disciplina y constancia**
 
-✔️ Compromiso con mi crecimiento profesional
+Mi objetivo es integrar la ingeniería con el desarrollo de software para crear soluciones tecnológicas eficientes e innovadoras.
 
-✔️ Orientación al logro
+---
 
-Mi objetivo es integrar la tecnología con la ingeniería para desarrollar soluciones innovadoras y funcionales.
+## 2. FORMACIÓN ACADÉMICA
 
-2️⃣ FORMACIÓN ACADÉMICA
-🎓 2.1 Tecnología en Operación y Mantenimiento Electromecánico
+### 2.1 Tecnología en Operación y Mantenimiento Electromecánico
+Unidades Tecnológicas de Santander  
+En curso  
 
-Unidades Tecnológicas de Santander
-📅 En curso
+### 2.2 Técnico en Programación
+CampusLab – Zona Franca, Santander  
+2026 - Actualidad  
 
-💻 2.2 Técnico en Programación
+### 2.3 Bachiller Académico
+Institución Educativa Aurelio Martínez Mutis – Bucaramanga  
+2019 - 2024  
 
-CampusLab
-📅 2026 - Actualidad
+---
 
-🏫 2.3 Bachiller Académico
+## 3. HABILIDADES TÉCNICAS
 
-Institución Educativa Aurelio Martínez Mutis
-📅 2019 - 2024
+- **Python (nivel formativo)**
+- **Lógica de programación**
+- **Manejo de archivos JSON**
+- **Sistemas con roles (Administrador / Usuario)**
+- **Desarrollo modular en Python**
+- **Herramientas ofimáticas**
+- **Fundamentos en mantenimiento electromecánico**
 
-3️⃣ HABILIDADES TÉCNICAS
+---
 
-🔹 Fundamentos de programación
-🔹 Desarrollo de proyectos en Python
-🔹 Manejo de archivos JSON
-🔹 Sistemas con roles (Administrador / Usuario)
-🔹 Lógica de programación
-🔹 Manejo de herramientas ofimáticas
-🔹 Fundamentos en mantenimiento electromecánico
+## 4. HABILIDADES BLANDAS
 
-4️⃣ HABILIDADES BLANDAS
+- **Comunicación asertiva**
+- **Responsabilidad**
+- **Trabajo en equipo**
+- **Adaptabilidad**
+- **Orientación al logro**
 
-🔸 Comunicación asertiva
-🔸 Trabajo con responsabilidad
-🔸 Orientación al logro
-🔸 Compromiso y disciplina
-🔸 Adaptabilidad
+---
 
-5️⃣ OBJETIVO PROFESIONAL
+## 5. OBJETIVO PROFESIONAL
 
-Desarrollarme en el sector tecnológico como programador y profesional integral, integrando mis conocimientos en electromecánica y software para aportar soluciones innovadoras y eficientes.
+Desarrollarme profesionalmente en el área tecnológica, fortaleciendo mis habilidades como programador y combinando mis conocimientos en electromecánica con el desarrollo de software.
 
-6️⃣ CONTACTO
+---
 
-📧 Email: alberthsantiagoleal@gmail.com
+## 6. CONTACTO
 
-📍 Ubicación: Girón, Santander, Colombia
+**Email:** alberthsantiagoleal@gmail.com  
+**Ubicación:** Girón, Santander, Colombia
